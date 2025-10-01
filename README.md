@@ -1,1 +1,1 @@
-# BrightLearn Notes
+# BrightLearn Python Notes
